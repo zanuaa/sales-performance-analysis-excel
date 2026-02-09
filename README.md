@@ -3,13 +3,16 @@
 ## Project Overview
 This project focuses on analyzing sales data and presenting key performance insights through an interactive dashboard using Microsoft Excel.
 
-## Dataset
-Sales Transaction Dataset (cleaned and ready for analysis).
-
 ## Objectives
 - Analyze overall sales performance using key performance indicators.
 - Identify sales trends and segment-based performance.
 - Support data-driven decision making through interactive visualizations.
+
+## Tools 
+Microsoft Excel
+
+## Dataset
+Sales Transaction Dataset.
 
 ## Key Features
 - Sales KPI overview
