@@ -21,9 +21,6 @@ Sales Transaction Dataset.
 - Top-performing products
 - Interactive slicers for dynamic filtering
 
-## Tools
-- Microsoft Excel
-
 ## Dashboard Preview
 <img width="431" height="299" alt="Dasboard Z" src="https://github.com/user-attachments/assets/a78a3fed-874d-4b5d-b7cb-50371cfc0b32" />
 
