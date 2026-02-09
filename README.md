@@ -30,8 +30,8 @@ Sales Transaction Dataset (cleaned and ready for analysis).
 - Profit margin remains relatively stable, suggesting consistent pricing and cost management across periods.
 
 ## Suggstions
-Focus marketing and promotional efforts on high performing segments, particularly the Consumer segment.
-Optimize sales strategies during peak months to maximize revenue and profitability.
-Explore growth opportunities in the Home Office segment through targeted campaigns or product bundling.
+- Focus marketing and promotional efforts on high performing segments, particularly the Consumer segment.
+- Optimize sales strategies during peak months to maximize revenue and profitability.
+- Explore growth opportunities in the Home Office segment through targeted campaigns or product bundling.
 
 
