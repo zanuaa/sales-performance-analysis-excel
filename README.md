@@ -12,7 +12,7 @@ This project focuses on analyzing sales data and presenting key performance insi
 Microsoft Excel
 
 ## Dataset
-Sales Transaction Dataset.
+Sales Transaction Dataset
 
 ## Key Features
 - Sales KPI overview
